@@ -1,0 +1,30 @@
+[
+    {
+      name: "Alice Johnson",
+      profession: "Software Engineer",
+      profilePicture:
+        "https://via.placeholder.com/150/0000FF/FFFFFF?text=Alice",
+    },
+    {
+      name: "Michael Brown",
+      profession: "Graphic Designer",
+      profilePicture:
+        "https://via.placeholder.com/150/008000/FFFFFF?text=Michael",
+    },
+    {
+      name: "Sofia Martinez",
+      profession: "Digital Marketer",
+      profilePicture:
+        "https://via.placeholder.com/150/FF0000/FFFFFF?text=Sofia",
+    },
+    {
+      name: "Liam Nguyen",
+      profession: "Data Scientist",
+      profilePicture: "https://via.placeholder.com/150/FFFF00/000000?text=Liam",
+    },
+    {
+      name: "Emma Wilson",
+      profession: "UX Designer",
+      profilePicture: "https://via.placeholder.com/150/800080/FFFFFF?text=Emma",
+    },
+  ];
